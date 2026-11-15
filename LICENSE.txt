@@ -1,0 +1,21 @@
+Copyright and Usage Terms
+
+Copyright © 2026 LawGlitch by Sandipan Dutta. All rights reserved.
+
+This software is provided free of charge strictly for:
+1. Personal, private, and non-commercial use.
+2. Commercial use by genuine solo freelancers operating exclusively as individual sole proprietors (not registered as a corporation, LLC, partnership, or any other incorporated business entity, and employing no staff, contractors, or team members).
+
+You may:
+- Install and use the software for personal functionality or your own solo freelance work as defined above.
+
+You may NOT:
+- Use the software on behalf of or within any incorporated company, LLC, partnership, agency, studio, or multi-person organization.
+- Share, deploy, or provide access to the software for employees, subcontractors, partners, or team members.
+- Rebrand, redistribute, sell, sublicense, or commercially distribute copies of the software.
+- Remove or alter any copyright, trademark, or ownership notices.
+- Publish modified versions of the software as official releases.
+
+No permission to redistribute or create derivative commercial products is granted by this notice. 
+
+For corporate, agency, team, or enterprise licensing—or any additional permissions—please contact the product owner at lawglitch@outlook.com.
